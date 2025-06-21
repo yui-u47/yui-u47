@@ -4,8 +4,9 @@ I’m a electronic and computer engineer student that loves software.
 - 🔭Currently working on own projects (But I’m free if you need my help).
 - 🌱 I’m currently learning Godot, C, Neural Networks (Keras-Tensorflow).
 - 🤔 I’m looking for help with any project that needs me.
-- 📫 How to reach me: ronaldveliz1004@gmail.com
-- English, Español, 日本語.
+- 🧑🏼‍💻 Tools: Python, C#.
+
+English, Español, 日本語.
 <!--
 **yui-u47/yui-u47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
