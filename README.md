@@ -4,7 +4,7 @@ I’m a electronic and computer engineer student that loves software.
 - 🔭Currently working on own projects (But I’m free if you need my help).
 - 🌱 I’m currently learning Godot, C, Neural Networks (Keras-Tensorflow).
 - 🤔 I’m looking for help with any project that needs me.
-- 🧑🏼‍💻 Tools: Python, C#.
+- 🧑🏼‍💻 Tools: Python, C#, SQL.
 
 English, Español, 日本語.
 <!--
