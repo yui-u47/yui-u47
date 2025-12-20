@@ -1,5 +1,5 @@
 # Hello 👋
-I’m a electronic and computer engineer student that loves software.
+I’m a electronic computer engineering student that loves software.
 
 - 🔭Currently working on own projects (But I’m free if you need my help).
 - 🌱 I’m currently learning Godot, C, Neural Networks (Keras-Tensorflow).
