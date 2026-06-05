@@ -6,7 +6,7 @@ I'm an **Electronics & Computer Engineering student** passionate about software,
 
 ## 🚩 About Me
 
-- 🔭 Currently working on personal projects (but I'm open to collaborations!).
+- 🔭 Currently working as a freelancer (but I'm open to collaborations!).
 - 🌱 Exploring: [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white)](https://keras.io/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 - 🧑🏼‍💻 Tools I use: [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)&nbsp;](https://www.python.org/) [![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat)&nbsp;](https://dotnet.microsoft.com/en-us/languages/csharp) [![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat)](https://en.wikipedia.org/wiki/SQL) [![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=Godot-Engine&logoColor=white)](https://godotengine.org/) [![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 - 🤝 Looking for: Interesting projects needing a contributor.
